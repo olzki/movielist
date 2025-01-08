@@ -1,0 +1,70 @@
+/* General Page Styles */
+body {
+    font-family: "Montserrat", serif;
+    background-color: #2c2c2c; /* Dark background */
+    color: white; /* Light text for contrast */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #f4f4f4;
+    margin-top: 20px;
+}
+
+
+/* Table Styles */
+table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #3a3a3a; /* Slightly lighter dark background for table */
+}
+
+th, td {
+    padding: 14px 20px;
+    text-align: left;
+    border-bottom: 1px solid #555;
+}
+
+th {
+    background-color: #444; /* Dark header for contrast */
+}
+
+td {
+    background-color: #3a3a3a; /* Same as table background */
+}
+
+/* Button Styles */
+button {
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    min-width: 180px;  /* Keeps the button size consistent */
+    text-align: center; /* Ensure text is aligned */
+}
+
+
+.watched {
+    background-color: #4CAF50; /* Green for watched */
+    color: white;
+}
+
+.not-watched {
+    background-color: #f44336; /* Red for not watched */
+    color: white;
+}
+
+/* Hover Effects */
+button:hover {
+    opacity: 0.8;
+}
+
+table tr:hover {
+    background-color: #555; /* Highlight rows on hover */
+}
+

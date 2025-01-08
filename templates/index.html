@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fira+Code:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Movie List</title>
+</head>
+<body>
+    <h1>IMDB Top 250 Movies</h1>
+    <table>
+        <tr>
+            <th>Rank</th>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Rating</th>
+            <th>Genre</th>
+            <th>Watched</th>
+        </tr>
+        {% for movie in movies %}
+        <tr id="movie-{{ movie['rank'] }}" class="{{ 'watched' if movie['watched'] else 'not-watched' }}">
+            <td>{{ movie['rank'] }}</td>
+            <td>{{ movie['name'] }}</td>
+            <td>{{ movie['year'] }}</td>
+            <td>{{ movie['rating'] }}</td>
+            <td>{{ movie['genre'] }}</td>
+            <td>
+                <form id="watched-form-{{ movie['rank'] }}" action="/update" method="POST">
+                    <input type="hidden" name="name" value="{{ movie['name'] }}">
+                    <button type="button" id="watched-button-{{ movie['rank'] }}" 
+                            class="{{ 'watched' if movie['watched'] else 'not-watched' }}"
+                            onclick="toggle_watched({{ movie['rank'] }}, '{{ movie['name'] }}')">
+                        {{ 'Mark as Unwatched' if movie['watched'] else 'Mark as Watched' }}
+                    </button>
+                </form>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function toggle_watched(rank, movieName) {
+            const form = document.getElementById('watched-form-' + rank);
+            const button = document.getElementById('watched-button-' + rank);
+
+            // Optimistic UI Update: change button appearance immediately
+            if (button.textContent === 'Mark as Watched') {
+                button.textContent = 'Mark as Unwatched';
+                button.classList.remove('not-watched');
+                button.classList.add('watched');
+            } else {
+                button.textContent = 'Mark as Watched';
+                button.classList.remove('watched');
+                button.classList.add('not-watched');
+            }
+
+            // Submit the form using AJAX
+            $.ajax({
+                url: '/update',
+                type: 'POST',
+                data: $(form).serialize(),
+                success: function(response) {
+                    // Ensure the button text and style reflect the correct state after the AJAX request
+                    if (response.status === 'success') {
+                        if (response.watched) {
+                            button.textContent = 'Mark as Unwatched';
+                            button.classList.remove('not-watched');
+                            button.classList.add('watched');
+                        } else {
+                            button.textContent = 'Mark as Watched';
+                            button.classList.remove('watched');
+                            button.classList.add('not-watched');
+                        }
+                    } else {
+                        alert('There was an error updating the movie status.');
+                    }
+                },
+                error: function() {
+                    // In case of an error, show a message and revert to the original state
+                    alert('An error occurred while updating the movie status.');
+                    // Reset the button text and color back to the original state
+                    if (button.textContent === 'Mark as Watched') {
+                        button.textContent = 'Mark as Unwatched';
+                        button.classList.remove('not-watched');
+                        button.classList.add('watched');
+                    } else {
+                        button.textContent = 'Mark as Watched';
+                        button.classList.remove('watched');
+                        button.classList.add('not-watched');
+                    }
+                }
+            });
+        }
+    </script>
+</body>
+</html>

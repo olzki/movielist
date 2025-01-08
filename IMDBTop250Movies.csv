@@ -1,0 +1,251 @@
+rank,name,year,rating,genre,watched
+1,The Shawshank Redemption,1994,9.3,Drama,False
+2,The Godfather,1972,9.2,"Crime,Drama",False
+3,The Dark Knight,2008,9.0,"Action,Crime,Drama",False
+4,The Godfather Part II,1974,9.0,"Crime,Drama",False
+5,12 Angry Men,1957,9.0,"Crime,Drama",False
+6,Schindler's List,1993,9.0,"Biography,Drama,History",False
+7,The Lord of the Rings: The Return of the King,2003,9.0,"Action,Adventure,Drama",False
+8,Pulp Fiction,1994,8.9,"Crime,Drama",False
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action,Adventure,Drama",False
+10,"The Good, the Bad and the Ugly",1966,8.8,"Adventure,Western",False
+11,Forrest Gump,1994,8.8,"Drama,Romance",False
+12,Fight Club,1999,8.8,Drama,False
+13,The Lord of the Rings: The Two Towers,2002,8.8,"Action,Adventure,Drama",False
+14,Inception,2010,8.8,"Action,Adventure,Sci-Fi",False
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,"Action,Adventure,Fantasy",False
+16,The Matrix,1999,8.7,"Action,Sci-Fi",False
+17,Goodfellas,1990,8.7,"Biography,Crime,Drama",False
+18,One Flew Over the Cuckoo's Nest,1975,8.7,Drama,False
+19,Se7en,1995,8.6,"Crime,Drama,Mystery",False
+20,Seven Samurai,1954,8.6,"Action,Drama",False
+21,It's a Wonderful Life,1946,8.6,"Drama,Family,Fantasy",False
+22,The Silence of the Lambs,1991,8.6,"Crime,Drama,Thriller",False
+23,City of God,2002,8.6,"Crime,Drama",False
+24,Saving Private Ryan,1998,8.6,"Drama,War",False
+25,Interstellar,2014,8.6,"Adventure,Drama,Sci-Fi",False
+26,Life Is Beautiful,1997,8.6,"Comedy,Drama,Romance",False
+27,The Green Mile,1999,8.6,"Crime,Drama,Fantasy",False
+28,Star Wars: Episode IV - A New Hope,1977,8.6,"Action,Adventure,Fantasy",False
+29,Terminator 2: Judgment Day,1991,8.6,"Action,Sci-Fi",False
+30,Back to the Future,1985,8.5,"Adventure,Comedy,Sci-Fi",False
+31,Spirited Away,2001,8.6,"Animation,Adventure,Family",False
+32,The Pianist,2002,8.5,"Biography,Drama,Music",False
+33,Psycho,1960,8.5,"Horror,Mystery,Thriller",False
+34,Parasite,2019,8.5,"Drama,Thriller",False
+35,Léon: The Professional,1994,8.5,"Action,Crime,Drama",False
+36,The Lion King,1994,8.5,"Animation,Adventure,Drama",False
+37,Gladiator,2000,8.5,"Action,Adventure,Drama",False
+38,American History X,1998,8.5,"Crime,Drama",False
+39,The Departed,2006,8.5,"Crime,Drama,Thriller",False
+40,The Usual Suspects,1995,8.5,"Crime,Drama,Mystery",False
+41,The Prestige,2006,8.5,"Drama,Mystery,Sci-Fi",False
+42,Whiplash,2014,8.5,"Drama,Music",False
+43,Casablanca,1942,8.5,"Drama,Romance,War",False
+44,Grave of the Fireflies,1988,8.5,"Animation,Drama,War",False
+45,Harakiri,1962,8.6,"Action,Drama,Mystery",False
+46,The Intouchables,2011,8.5,"Biography,Comedy,Drama",False
+47,Modern Times,1936,8.5,"Comedy,Drama,Romance",False
+48,Once Upon a Time in the West,1968,8.5,Western,False
+49,Rear Window,1954,8.5,"Mystery,Thriller",False
+50,Cinema Paradiso,1988,8.5,"Drama,Romance",False
+51,Alien,1979,8.5,"Horror,Sci-Fi",False
+52,City Lights,1931,8.5,"Comedy,Drama,Romance",False
+53,Apocalypse Now,1979,8.5,"Drama,Mystery,War",False
+54,Memento,2000,8.4,"Mystery,Thriller",False
+55,Django Unchained,2012,8.4,"Drama,Western",False
+56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,"Action,Adventure",False
+57,WALL·E,2008,8.4,"Animation,Adventure,Family",False
+58,The Lives of Others,2006,8.4,"Drama,Mystery,Thriller",False
+59,Sunset Blvd.,1950,8.4,"Drama,Film-Noir",False
+60,Paths of Glory,1957,8.4,"Drama,War",False
+61,The Shining,1980,8.4,"Drama,Horror",False
+62,The Great Dictator,1940,8.4,"Comedy,Drama,War",False
+63,Avengers: Infinity War,2018,8.4,"Action,Adventure,Sci-Fi",False
+64,Witness for the Prosecution,1957,8.4,"Crime,Drama,Mystery",False
+65,Aliens,1986,8.4,"Action,Adventure,Sci-Fi",False
+66,Spider-Man: Into the Spider-Verse,2018,8.4,"Animation,Action,Adventure",False
+67,American Beauty,1999,8.4,Drama,False
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,"Comedy,War",False
+69,The Dark Knight Rises,2012,8.4,"Action,Drama",False
+70,Oldboy,2003,8.4,"Action,Drama,Mystery",False
+71,Inglourious Basterds,2009,8.3,"Adventure,Drama,War",False
+72,Amadeus,1984,8.4,"Biography,Drama,Music",False
+73,Coco,2017,8.4,"Animation,Adventure,Comedy",False
+74,Toy Story,1995,8.3,"Animation,Adventure,Comedy",False
+75,Joker,2019,8.4,"Crime,Drama,Thriller",False
+76,Braveheart,1995,8.4,"Biography,Drama,History",False
+77,The Boat,1981,8.4,"Drama,War",False
+78,Avengers: Endgame,2019,8.4,"Action,Adventure,Drama",False
+79,Princess Mononoke,1997,8.4,"Animation,Action,Adventure",False
+80,Once Upon a Time in America,1984,8.3,"Crime,Drama",False
+81,Good Will Hunting,1997,8.3,"Drama,Romance",False
+82,Your Name.,2016,8.4,"Animation,Drama,Fantasy",False
+83,3 Idiots,2009,8.4,"Comedy,Drama",False
+84,Singin' in the Rain,1952,8.3,"Comedy,Musical,Romance",False
+85,Requiem for a Dream,2000,8.3,Drama,False
+86,Toy Story 3,2010,8.3,"Animation,Adventure,Comedy",False
+87,High and Low,1963,8.4,"Crime,Drama,Mystery",False
+88,Capernaum,2018,8.4,Drama,False
+89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,"Action,Adventure,Fantasy",False
+90,Eternal Sunshine of the Spotless Mind,2004,8.3,"Drama,Romance,Sci-Fi",False
+91,2001: A Space Odyssey,1968,8.3,"Adventure,Sci-Fi",False
+92,Reservoir Dogs,1992,8.3,"Crime,Thriller",False
+93,Come and See,1985,8.4,"Drama,Thriller,War",False
+94,The Hunt,2012,8.3,Drama,False
+95,Citizen Kane,1941,8.3,"Drama,Mystery",False
+96,M,1931,8.3,"Crime,Mystery,Thriller",False
+97,Lawrence of Arabia,1962,8.3,"Adventure,Biography,Drama",False
+98,North by Northwest,1959,8.3,"Action,Adventure,Mystery",False
+99,Vertigo,1958,8.3,"Mystery,Romance,Thriller",False
+100,Ikiru,1952,8.3,Drama,False
+101,Amélie,2001,8.3,"Comedy,Romance",False
+102,The Apartment,1960,8.3,"Comedy,Drama,Romance",False
+103,A Clockwork Orange,1971,8.3,"Crime,Sci-Fi",False
+104,Double Indemnity,1944,8.3,"Crime,Drama,Film-Noir",False
+105,Full Metal Jacket,1987,8.3,"Drama,War",False
+106,Top Gun: Maverick,2022,8.3,"Action,Drama",False
+107,Scarface,1983,8.3,"Crime,Drama",False
+108,Hamilton,2020,8.4,"Biography,Drama,History",False
+109,Incendies,2010,8.3,"Drama,Mystery",False
+110,To Kill a Mockingbird,1962,8.3,"Crime,Drama",False
+111,Heat,1995,8.3,"Action,Crime,Drama",False
+112,The Sting,1973,8.3,"Comedy,Crime,Drama",False
+113,Up,2009,8.3,"Animation,Adventure,Comedy",False
+114,A Separation,2011,8.3,Drama,False
+115,Metropolis,1927,8.3,"Drama,Sci-Fi",False
+116,Taxi Driver,1976,8.2,"Crime,Drama",False
+117,L.A. Confidential,1997,8.2,"Crime,Drama,Mystery",False
+118,Die Hard,1988,8.2,"Action,Thriller",False
+119,Snatch,2000,8.2,"Comedy,Crime",False
+120,Indiana Jones and the Last Crusade,1989,8.2,"Action,Adventure",False
+121,Bicycle Thieves,1948,8.3,Drama,False
+122,Like Stars on Earth,2007,8.3,"Drama,Family",False
+123,1917,2019,8.2,"Action,Drama,War",False
+124,Downfall,2004,8.2,"Biography,Drama,History",False
+125,Dangal,2016,8.3,"Action,Biography,Drama",False
+126,For a Few Dollars More,1965,8.2,Western,False
+127,Batman Begins,2005,8.2,"Action,Crime,Drama",False
+128,The Kid,1921,8.3,"Comedy,Drama,Family",False
+129,Some Like It Hot,1959,8.2,"Comedy,Music,Romance",False
+130,The Father,2020,8.2,"Drama,Mystery",False
+131,All About Eve,1950,8.2,Drama,False
+132,The Wolf of Wall Street,2013,8.2,"Biography,Comedy,Crime",False
+133,Green Book,2018,8.2,"Biography,Comedy,Drama",False
+134,Judgment at Nuremberg,1961,8.3,"Drama,War",False
+135,Casino,1995,8.2,"Crime,Drama",False
+136,Ran,1985,8.2,"Action,Drama,War",False
+137,Pan's Labyrinth,2006,8.2,"Drama,Fantasy,War",False
+138,The Truman Show,1998,8.2,"Comedy,Drama",False
+139,There Will Be Blood,2007,8.2,Drama,False
+140,Unforgiven,1992,8.2,"Drama,Western",False
+141,The Sixth Sense,1999,8.2,"Drama,Mystery,Thriller",False
+142,Shutter Island,2010,8.2,"Mystery,Thriller",False
+143,A Beautiful Mind,2001,8.2,"Biography,Drama",False
+144,Jurassic Park,1993,8.2,"Action,Adventure,Sci-Fi",False
+145,Yojimbo,1961,8.2,"Action,Drama,Thriller",False
+146,The Treasure of the Sierra Madre,1948,8.2,"Adventure,Drama,Western",False
+147,Monty Python and the Holy Grail,1975,8.2,"Adventure,Comedy,Fantasy",False
+148,The Great Escape,1963,8.2,"Adventure,Drama,History",False
+149,No Country for Old Men,2007,8.2,"Crime,Drama,Thriller",False
+150,Spider-Man: No Way Home,2021,8.2,"Action,Adventure,Fantasy",False
+151,Kill Bill: Vol. 1,2003,8.2,"Action,Crime,Drama",False
+152,Rashomon,1950,8.2,"Crime,Drama,Mystery",False
+153,The Thing,1982,8.2,"Horror,Mystery,Sci-Fi",False
+154,Finding Nemo,2003,8.2,"Animation,Adventure,Comedy",False
+155,The Elephant Man,1980,8.2,"Biography,Drama",False
+156,Chinatown,1974,8.2,"Drama,Mystery,Thriller",False
+157,Raging Bull,1980,8.2,"Biography,Drama,Sport",False
+158,V for Vendetta,2005,8.2,"Action,Drama,Sci-Fi",False
+159,Gone with the Wind,1939,8.2,"Drama,Romance,War",False
+160,"Lock, Stock and Two Smoking Barrels",1998,8.2,"Action,Comedy,Crime",False
+161,Inside Out,2015,8.2,"Animation,Adventure,Comedy",False
+162,Dial M for Murder,1954,8.2,"Crime,Thriller",False
+163,The Secret in Their Eyes,2009,8.2,"Drama,Mystery,Romance",False
+164,Howl's Moving Castle,2004,8.2,"Animation,Adventure,Family",False
+165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,"Comedy,Crime,Drama",False
+166,The Bridge on the River Kwai,1957,8.2,"Adventure,Drama,War",False
+167,Trainspotting,1996,8.1,Drama,False
+168,Prisoners,2013,8.1,"Crime,Drama,Mystery",False
+169,Warrior,2011,8.2,"Action,Drama,Sport",False
+170,Fargo,1996,8.1,"Crime,Thriller",False
+171,Gran Torino,2008,8.1,Drama,False
+172,My Neighbor Totoro,1988,8.1,"Animation,Comedy,Family",False
+173,Catch Me If You Can,2002,8.1,"Biography,Crime,Drama",False
+174,Million Dollar Baby,2004,8.1,"Drama,Sport",False
+175,Children of Heaven,1997,8.2,"Drama,Family,Sport",False
+176,Blade Runner,1982,8.1,"Action,Drama,Sci-Fi",False
+177,The Gold Rush,1925,8.1,"Adventure,Comedy,Drama",False
+178,Before Sunrise,1995,8.1,"Drama,Romance",False
+179,12 Years a Slave,2013,8.1,"Biography,Drama,History",False
+180,Klaus,2019,8.2,"Animation,Adventure,Comedy",False
+181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,"Adventure,Family,Fantasy",False
+182,On the Waterfront,1954,8.1,"Crime,Drama,Thriller",False
+183,Ben-Hur,1959,8.1,"Adventure,Drama",False
+184,Gone Girl,2014,8.1,"Drama,Mystery,Thriller",False
+185,The Grand Budapest Hotel,2014,8.1,"Adventure,Comedy,Crime",False
+186,Wild Strawberries,1957,8.1,"Drama,Romance",False
+187,The General,1926,8.1,"Action,Adventure,Comedy",False
+188,The Third Man,1949,8.1,"Film-Noir,Mystery,Thriller",False
+189,In the Name of the Father,1993,8.1,"Biography,Crime,Drama",False
+190,The Deer Hunter,1978,8.1,"Drama,War",False
+191,Barry Lyndon,1975,8.1,"Adventure,Drama,War",False
+192,Hacksaw Ridge,2016,8.1,"Biography,Drama,History",False
+193,The Wages of Fear,1953,8.2,"Adventure,Drama,Thriller",False
+194,Memories of Murder,2003,8.1,"Crime,Drama,Mystery",False
+195,Sherlock Jr.,1924,8.2,"Action,Comedy,Romance",False
+196,Wild Tales,2014,8.1,"Comedy,Drama,Thriller",False
+197,Mr. Smith Goes to Washington,1939,8.1,"Comedy,Drama",False
+198,Mad Max: Fury Road,2015,8.1,"Action,Adventure,Sci-Fi",False
+199,The Seventh Seal,1957,8.1,"Drama,Fantasy",False
+200,Mary and Max,2009,8.1,"Animation,Comedy,Drama",False
+201,How to Train Your Dragon,2010,8.1,"Animation,Action,Adventure",False
+202,Room,2015,8.1,"Drama,Thriller",False
+203,"Monsters, Inc.",2001,8.1,"Animation,Adventure,Comedy",False
+204,Jaws,1975,8.1,"Adventure,Thriller",False
+205,Dead Poets Society,1989,8.1,"Comedy,Drama",False
+206,The Big Lebowski,1998,8.1,"Comedy,Crime",False
+207,Tokyo Story,1953,8.2,Drama,False
+208,The Passion of Joan of Arc,1928,8.2,"Biography,Drama,History",False
+209,Hotel Rwanda,2004,8.1,"Biography,Drama,History",False
+210,Ford v Ferrari,2019,8.1,"Action,Biography,Drama",False
+211,Rocky,1976,8.1,"Drama,Sport",False
+212,Platoon,1986,8.1,"Drama,War",False
+213,Ratatouille,2007,8.1,"Animation,Adventure,Comedy",False
+214,Spotlight,2015,8.1,"Biography,Crime,Drama",False
+215,The Terminator,1984,8.1,"Action,Sci-Fi",False
+216,Logan,2017,8.1,"Action,Drama,Sci-Fi",False
+217,Stand by Me,1986,8.1,"Adventure,Drama",False
+218,Rush,2013,8.1,"Action,Biography,Drama",False
+219,Network,1976,8.1,Drama,False
+220,Into the Wild,2007,8.1,"Adventure,Biography,Drama",False
+221,Before Sunset,2004,8.1,"Drama,Romance",False
+222,The Wizard of Oz,1939,8.1,"Adventure,Family,Fantasy",False
+223,Pather Panchali,1955,8.3,Drama,False
+224,Groundhog Day,1993,8.1,"Comedy,Drama,Fantasy",False
+225,The Best Years of Our Lives,1946,8.1,"Drama,Romance,War",False
+226,The Exorcist,1973,8.1,Horror,False
+227,The Incredibles,2004,8.0,"Animation,Action,Adventure",False
+228,To Be or Not to Be,1942,8.2,"Comedy,Romance,War",False
+229,La haine,1995,8.1,"Crime,Drama",False
+230,The Battle of Algiers,1966,8.1,"Drama,War",False
+231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,"Action,Adventure,Fantasy",False
+232,Hachi: A Dog's Tale,2009,8.1,"Biography,Drama,Family",False
+233,The Grapes of Wrath,1940,8.1,Drama,False
+234,Jai Bhim,2021,8.8,"Crime,Drama,Mystery",False
+235,My Father and My Son,2005,8.2,"Drama,Family",False
+236,Amores Perros,2000,8.1,"Drama,Thriller",False
+237,Rebecca,1940,8.1,"Drama,Film-Noir,Mystery",False
+238,Cool Hand Luke,1967,8.1,"Crime,Drama",False
+239,The Handmaiden,2016,8.1,"Drama,Romance,Thriller",False
+240,The 400 Blows,1959,8.1,"Crime,Drama",False
+241,The Sound of Music,1965,8.1,"Biography,Drama,Family",False
+242,It Happened One Night,1934,8.1,"Comedy,Romance",False
+243,Persona,1966,8.1,"Drama,Thriller",False
+244,Life of Brian,1979,8.0,Comedy,False
+245,The Iron Giant,1999,8.1,"Animation,Action,Adventure",False
+246,The Help,2011,8.1,Drama,False
+247,Dersu Uzala,1975,8.2,"Adventure,Biography,Drama",False
+248,Aladdin,1992,8.0,"Animation,Adventure,Comedy",False
+249,Gandhi,1982,8.0,"Biography,Drama,History",False
+250,Dances with Wolves,1990,8.0,"Adventure,Drama,Western",False
