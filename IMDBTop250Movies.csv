@@ -1,14 +1,14 @@
 rank,name,year,rating,genre,watched
-1,The Shawshank Redemption,1994,9.3,Drama,False
+1,The Shawshank Redemption,1994,9.3,Drama,True
 2,The Godfather,1972,9.2,"Crime,Drama",False
-3,The Dark Knight,2008,9.0,"Action,Crime,Drama",False
+3,The Dark Knight,2008,9.0,"Action,Crime,Drama",True
 4,The Godfather Part II,1974,9.0,"Crime,Drama",False
 5,12 Angry Men,1957,9.0,"Crime,Drama",False
 6,Schindler's List,1993,9.0,"Biography,Drama,History",False
 7,The Lord of the Rings: The Return of the King,2003,9.0,"Action,Adventure,Drama",False
-8,Pulp Fiction,1994,8.9,"Crime,Drama",False
-9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action,Adventure,Drama",False
-10,"The Good, the Bad and the Ugly",1966,8.8,"Adventure,Western",False
+8,Pulp Fiction,1994,8.9,"Crime,Drama",True
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,"Action,Adventure,Drama",True
+10,"The Good, the Bad and the Ugly",1966,8.8,"Adventure,Western",True
 11,Forrest Gump,1994,8.8,"Drama,Romance",False
 12,Fight Club,1999,8.8,Drama,False
 13,The Lord of the Rings: The Two Towers,2002,8.8,"Action,Adventure,Drama",False
